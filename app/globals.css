@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { font-family: Georgia, serif; background: #faf7f5; color: #2a1f2d }
+.btn { background: #5b2a4e; color: #fff; padding: .5rem 1rem; border-radius: .4rem }
+.in { border: 1px solid #cdb8c6; padding: .5rem; border-radius: .4rem; width: 100%; background: #fff }
